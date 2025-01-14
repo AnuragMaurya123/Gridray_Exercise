@@ -1,0 +1,42 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What does CPU stand for?",
+        "correct_answer": "Central Processing Unit",
+        "incorrect_answers": [
+          "Central Process Unit",
+          "Computer Personal Unit",
+          "Central Processor Unit"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the game Half-Life, which enemy is showcased as the final boss?",
+        "correct_answer": "Nihilanth",
+        "incorrect_answers": [
+          "G-Man",
+          "Headcrab",
+          "Vortigaunt"
+        ]
+      },
+      {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which historical figure is known for their role in the discovery of penicillin?",
+        "correct_answer": "Alexander Fleming",
+        "incorrect_answers": [
+          "Marie Curie",
+          "Louis Pasteur",
+          "Joseph Lister"
+        ]
+      }
+    ]
+  }
+  
